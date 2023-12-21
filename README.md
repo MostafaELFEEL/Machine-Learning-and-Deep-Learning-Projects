@@ -22,4 +22,4 @@ We will use different Gradient Descent methods:-
 
 # Results:
 
-![image](https://github.com/MostafaELFEEL/Machine-Learning/assets/106331831/84647185-2cd0-402a-8b75-d3b905613aa6)
+![image](https://github.com/MostafaELFEEL/Machine-Learning/assets/106331831/cfad1c66-77b5-4ad9-8404-960fa40e41e9)
