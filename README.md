@@ -1,4 +1,4 @@
-# Machine Learning
+# Machine Learning and Deep Learning Projects
 # Gradient Descent Optimization Techniques
 
 ## Overview
