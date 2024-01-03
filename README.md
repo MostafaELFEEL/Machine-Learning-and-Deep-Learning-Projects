@@ -104,6 +104,10 @@ The CNN model architecture is designed to extract intricate features from the in
 ## Results and Visualization
 Visualize the model's predictions and performance metrics through comprehensive graphs and charts included in the repository. Analyzing these visualizations will provide insights into the model's efficacy and potential areas for improvement.
 
+
+https://github.com/MostafaELFEEL/Machine-Learning/assets/106331831/45a080e5-d4b0-46d9-b4a1-800a20791ee1
+
+
 ## Conclusion
 This project showcases the application of CNNs in addressing linear regression challenges, specifically predicting thrust and steering values based on front-view car images. By leveraging deep learning techniques, the model demonstrates promising results, emphasizing the significance of visual data in autonomous navigation systems.
 
