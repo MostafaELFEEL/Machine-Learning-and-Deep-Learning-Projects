@@ -1,5 +1,5 @@
 # Machine Learning and Deep Learning Projects
-# Gradient Descent Optimization Techniques
+# 1-Gradient Descent Optimization Techniques:
 
 ## Overview
 This repository delves into the application of various Gradient Descent methods to identify the local minimum of a given function. The project aims to solve a set of non-linear equations by leveraging different optimization techniques, ultimately highlighting the efficacy of Gradient Descent algorithms in minimizing a specified objective function.
@@ -36,7 +36,7 @@ This repository serves as a comprehensive guide to understanding and implementin
 For a deeper understanding and detailed insights, explore the code snippets, and visualize the results presented in this repository.
 
 
-# Classification Problem Using CIFAR-100 Dataset with TensorFlow
+# 2-Classification Problem Using CIFAR-100 Dataset with TensorFlow:
 
 ## Overview
 This repository demonstrates a machine learning classification task using the CIFAR-100 dataset. The goal is to classify images into one of the 100 classes using a Multilayer Neural Network (MNN) model implemented with TensorFlow.
@@ -79,7 +79,7 @@ This project provides a comprehensive guide to building and evaluating a classif
 For detailed insights, refer to the code snippets and results displayed in this repository.
 
 
-# CNN-Based Linear Regression for Car Thrust and Steering Prediction
+# 3-CNN-Based Linear Regression for Car Thrust and Steering Prediction with pytorch:
 
 ## Overview
 This repository presents a Convolutional Neural Network (CNN) approach tailored for linear regression tasks focused on predicting thrust and steering values based on front-view images of a car. Leveraging the power of CNNs, the model is trained using a dataset comprising front-view car images paired with corresponding thrust and steering measurements.
