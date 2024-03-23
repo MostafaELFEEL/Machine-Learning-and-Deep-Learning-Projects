@@ -1,5 +1,4 @@
-# Machine Learning and Deep Learning Projects
-# 1-Gradient Descent Optimization Techniques:
+# Gradient Descent Optimization Techniques:
 
 ## Overview
 This repository delves into the application of various Gradient Descent methods to identify the local minimum of a given function. The project aims to solve a set of non-linear equations by leveraging different optimization techniques, ultimately highlighting the efficacy of Gradient Descent algorithms in minimizing a specified objective function.
