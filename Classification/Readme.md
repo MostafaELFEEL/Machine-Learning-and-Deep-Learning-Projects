@@ -1,4 +1,4 @@
-# 2-Classification Problem Using CIFAR-100 Dataset with TensorFlow:
+# Classification Problem Using CIFAR-100 Dataset with TensorFlow:
 
 ## Overview
 This repository demonstrates a machine learning classification task using the CIFAR-100 dataset. The goal is to classify images into one of the 100 classes using a Multilayer Neural Network (MNN) model implemented with TensorFlow.
