@@ -1,4 +1,4 @@
-# 3-CNN-Based Linear Regression for Car Thrust and Steering Prediction with pytorch:
+# CNN-Based Linear Regression for Car Thrust and Steering Prediction with pytorch:
 
 ## Overview
 This repository presents a Convolutional Neural Network (CNN) approach tailored for linear regression tasks focused on predicting thrust and steering values based on front-view images of a car. Leveraging the power of CNNs, the model is trained using a dataset comprising front-view car images paired with corresponding thrust and steering measurements.
